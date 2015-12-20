@@ -10,11 +10,11 @@ The preferred way to install this extension is through [Composer](http://getcomp
 
 Either run
 
-	php composer.phar require germanigortcev/yii2-recordrtc
+	php composer.phar require germanigortcev/yii2-recordrtc "dev-master"
 
 or add
 
-	"germanigortcev/yii2-recordrtc": "master"
+	"germanigortcev/yii2-recordrtc": "dev-master"
 
 to the require section of your composer.json
 
