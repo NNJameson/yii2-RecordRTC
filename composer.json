@@ -1,0 +1,40 @@
+{
+  "name": "germanigortcev/yii2-recordrtc",
+  "description": "Yii2 RecordRTC Asset.",
+  "version": "0.1",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "recordrtc",
+    "audio",
+    "video"
+  ],
+  "homepage": "https://github.com/germanigortcev/yii2-RecordRTC",
+  "time": "2015-21-12",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "German Igortcev",
+      "email": "german.igortcev@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/germanigortcev/yii2-RecordRTC/issues",
+    "source": "https://github.com/germanigortcev/yii2-RecordRTC"
+  },
+  "require": {
+    "yiisoft/yii2": "~2",
+    "bower-asset/recordrtc": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "GermanIgortcev\\yii\\widgets\\RecordRTC\\": ""
+    }
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm", "bower-asset-library": "vendor/bower"
+    }
+  }
+}
