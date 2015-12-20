@@ -1,4 +1,4 @@
-# Yii2 Summernote widget. Summernote 0.6.16
+# Yii2 RecordRTC Asset
 
 [Yii2](http://www.yiiframework.com) [RecordRTC](https://www.webrtc-experiment.com/RecordRTC). RecordRTC: WebRTC audio/video recording
 
