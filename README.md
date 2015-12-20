@@ -1,2 +1,24 @@
-# yii2-RecordRTC
-RecordRTC is a JavaScript-based media-recording library for modern web-browsers (supporting WebRTC getUserMedia API). It is optimized for different devices and browsers to bring all client-side (pluginfree) recording solutions in single place.
+# Yii2 Summernote widget. Summernote 0.6.16
+
+[Yii2](http://www.yiiframework.com) [RecordRTC](https://www.webrtc-experiment.com/RecordRTC). RecordRTC: WebRTC audio/video recording
+
+## Installation
+
+### Composer
+
+The preferred way to install this extension is through [Composer](http://getcomposer.org/).
+
+Either run
+
+	php composer.phar require germanigortcev/yii2-recordrtc
+
+or add
+
+	"germanigortcev/yii2-recordrtc": "master"
+
+to the require section of your composer.json
+
+
+## Author
+
+[German Igortcev](https://github.com/germanigortcev/), e-mail: [german.igortcev@gmail.com](mailto:german.igortcev@gmail.com)
